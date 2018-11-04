@@ -4,4 +4,4 @@
 2. HTML & CSS
   Button mainButoon1.html; mainButoon1.css
 3.JS
-  Ch.js
+  Ch1.js
