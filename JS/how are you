@@ -1,0 +1,6 @@
+var silliString = "эЙ, кАК деЛа?";
+var lowerString = silliString.toLowerCase();
+var firstCharacter = lowerString[0];
+var firstCharacterUpper = firstCharacter.toLocaleUpperCase();
+var restOfString =  lowerString.slice(1);
+firstCharacterUpper + restOfString;
